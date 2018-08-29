@@ -6,9 +6,9 @@ ROADMAP:
 -Player chooses their Name (not unique)
 
 -Player creates a new lobby with a UID
--Player automatically joins a lobby upon creaton
+-Player automatically joins a lobby upon creation
 
--Players can join a friends lobby by enterying the lobbies UID
+-Players can join a friends lobby by enterying the lobbyies UID
 
 -user selects category and difficulty
 -grab question and stores it in the db
